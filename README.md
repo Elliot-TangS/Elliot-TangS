@@ -17,9 +17,9 @@
 
 ## ⚡ Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elliot-TangS&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200&rank_icon=github" alt="stats" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Elliot-TangS&theme=tokyonight&hide_border=true" alt="streak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elliot-TangS&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="langs" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Elliot-TangS&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600&count_private=true&include_all_commits=true&rank_icon=github&v=2" alt="stats" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Elliot-TangS&theme=tokyonight&hide_border=true&date_format=M%20j[%2C%20Y]&mode=weekly&v=2" alt="streak" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Elliot-TangS&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&langs_count=8&card_width=360&v=2" alt="langs" height="150" />
 </p>
 
 ## 🧰 Stack
