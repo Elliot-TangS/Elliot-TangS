@@ -35,11 +35,6 @@
 - Build in observability (logs/metrics/traces) before scaling; secure defaults first.
 - Improve developer experience with templates, scripts, automated checks, and AI assist.
 
-## 🏗️ Selected Projects
-- `modern-web`: Opinionated React/Next.js starter with strict linting.
-- `service-skeleton`: Minimal, testable Fastify/Node template.
-- `dotfiles`: Scripts and configs for reproducible dev environments.
-
 ## 🤝 Connect
 I enjoy chatting about building products, improving DX, and OSS collabs. Feel free to reach out (update LinkedIn/email above with your real links).
 
